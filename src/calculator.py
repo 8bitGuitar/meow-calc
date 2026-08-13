@@ -32,7 +32,11 @@ def divide(a, b):
     result = a / b
     print(f"Result: {result}")
     return result
-
+    
+def mod(a, b):
+    """Returns mod of 2 numbers"""
+    return a % b
+    
 # TODO: Students will add multiply, divide, power, sqrt functions
 
 if __name__ == "__main__":
