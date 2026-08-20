@@ -1,6 +1,8 @@
 """
 Calculator Module - Basic arithmetic operations
 Students will extend this with more functions
+
+Todo: make a scientific calc
 """
 
 def add(a, b):
